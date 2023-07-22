@@ -4,6 +4,12 @@
 
 ![预览](./preview.png)
 
+## 安装
+
+```bash
+zinit light haloislet/zsh-history-fzf-plugin
+```
+
 ## 使用
 
 输入命令后使用上下键搜索命令历史
